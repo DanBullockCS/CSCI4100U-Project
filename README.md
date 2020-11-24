@@ -2,7 +2,7 @@
 
 ## NoteTakR 
 
-Note Taking app designed to be minilmalist to quickly take notes and save them in a local sqflite database. 
+Note Taking app designed to be minimalist to quickly take notes and save them in a local sqflite database. 
 
 <img src="resources/example.gif" height="300">
 
